@@ -37,10 +37,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp TAB           &kp KP_DIVIDE    &kp N7        &kp N8        &kp N9        &kp MINUS     &kp INSERT  &trans     &kp UP_ARROW  &trans     &kp DELETE     &kp BSPC
-&kp LEFT_CONTROL  &kp KP_MULTIPLY  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp PLUS      &kp HOME    &kp LEFT   &kp DOWN      &kp RIGHT  &kp PAGE_UP    &trans
-&kp LSHFT         &kp N0           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD    &kp END     &trans     &trans        &trans     &kp PAGE_DOWN  &trans
-                                                 &trans        &trans        &trans        &kp SPACE   &kp COLON  &kp ENTER
+&kp TAB           &kp KP_DIVIDE    &kp N7        &kp N8        &kp N9        &kp MINUS     &kp INSERT  &kp C_AC_ZOOM_OUT  &kp UP_ARROW  &kp C_AC_ZOOM_IN  &kp DELETE     &kp BSPC
+&kp LEFT_CONTROL  &kp KP_MULTIPLY  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp PLUS      &kp HOME    &kp LEFT           &kp DOWN      &kp RIGHT         &kp PAGE_UP    &trans
+&kp LSHFT         &kp N0           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD    &kp END     &trans             &trans        &trans            &kp PAGE_DOWN  &trans
+                                                 &trans        &trans        &trans        &kp SPACE   &kp COLON          &kp ENTER
             >;
         };
 
